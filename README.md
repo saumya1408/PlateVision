@@ -45,7 +45,7 @@ A modern AI solution for automated license-plate detection and Optical Character
 |------|---------|
 | Upload Image | ![Upload](static/images/upload.gif) |
 | Detection & OCR | ![Detect](static/images/detect.gif) |
-| Output JSON | ![Output](static/images/output.png) |
+
 
 > **Architecture Diagram**
 >
@@ -162,9 +162,7 @@ Response
 ---
 
 ## 📈 Architecture or Flow Diagram
-See [diagram/architecture.png](diagram/architecture.png) or expand below:
-<details>
-<summary>Mermaid sequence</summary>
+See [diagram/architecture.png](diagram/architecture.png):
 
 ```mermaid
 sequenceDiagram
@@ -178,8 +176,6 @@ sequenceDiagram
     OCR-->>UI: plate text
     UI-->>U: annotated image + JSON
 ```
-```
-</details>
 
 ---
 
