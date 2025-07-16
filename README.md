@@ -1,5 +1,9 @@
 # 🚗 License Plate Detection System
 
+![Web App Screenshot](https://drive.google.com/uc?export=view&id=1ksYab1rsau0tD4AEKhTCcYQv7sZS48fW)
+
+[![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1ODRnLVAHIpTkLk4Kjn9MoaObkU65GU0i/view?usp=sharing)
+
 
 A sophisticated web-based license plate detection and recognition system built with Flask, OpenCV, and EasyOCR. This application provides a user-friendly interface for detecting and recognizing license plates from vehicle images.
 
@@ -155,10 +159,6 @@ For support, please:
 
 For detailed documentation, check the project's wiki or documentation folder.
 
-## 🔍 Examples
-
-![Example 1](static/images/example1.jpg)
-![Example 2](static/images/example2.jpg)
 
 ## 📈 Future Improvements
 
