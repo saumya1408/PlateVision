@@ -3,7 +3,7 @@
 ![Web App Screenshot](https://drive.google.com/uc?export=view&id=1ksYab1rsau0tD4AEKhTCcYQv7sZS48fW)
 
 [![View Demo](https://img.shields.io/badge/Watch-Demo-blueviolet?style=for-the-badge)](https://drive.google.com/file/d/1ODRnLVAHIpTkLk4Kjn9MoaObkU65GU0i/view?usp=sharing)  
-[![Stars](https://img.shields.io/github/stars/yourusername/license-plate-detection?style=flat-square)](https://github.com/yourusername/license-plate-detection/stargazers) ![License](https://img.shields.io/github/license/yourusername/license-plate-detection?style=flat-square) ![Issues](https://img.shields.io/github/issues/yourusername/license-plate-detection?style=flat-square)
+
 
 > **One-line description:** Real-time web application that detects vehicle license plates and extracts text in <2 s using OpenCV & EasyOCR.
 
