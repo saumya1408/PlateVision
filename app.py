@@ -176,6 +176,7 @@ def process_image():
         return jsonify({'error': str(e)}), 500
 
 
-if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 10000))  # 10000 is just a fallback
-    app.run(host='0.0.0.0', port=port)
+port = int(os.environ.get("PORT", 8080))  # Changed fallback to 8080
+print(f"Running on port: {port}")
+app.run(host='0.0.0.0', port=port)
+
